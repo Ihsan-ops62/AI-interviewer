@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+chromadb
+streamlit
+pandas
+numpy
+openai
+python-dotenv
+python-dateutil
+langchain-openai
+Ollama
